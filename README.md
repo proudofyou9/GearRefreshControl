@@ -2,6 +2,8 @@
   <img width="420" height="240" src="assets/logo.png"/>
 </p>
 
+This project is tested with Browserstack.
+
 [![CocoaPods](https://cocoapod-badges.herokuapp.com/v/GearRefreshControl/badge.svg)](http://cocoapods.org/?q=gearrefreshcontrol)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 ![Swift 3.0](https://img.shields.io/badge/swift-3.0-orange.svg)
