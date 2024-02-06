@@ -63,12 +63,7 @@ gearRefreshControl.gearTintColor = .red
 Checkout the sample project for the full implementation.
 
 # Author
-[Andrea Mazzini](https://twitter.com/theandreamazz). I'm available for freelance work, feel free to contact me.
-
-Want to support the development of [these free libraries](https://cocoapods.org/owners/734)? Buy me a coffee ☕️ via [Paypal](https://www.paypal.me/andreamazzini).  
-
-# Contributors
-Thanks to [everyone](https://github.com/andreamazz/GearRefreshControl/graphs/contributors) kind enough to submit a pull request.
+I'm available for freelance work, feel free to contact me. Email To: secretstardev@gmail.com
 
 # MIT License
 
